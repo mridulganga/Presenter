@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8866881480",
+    "firebase_url": "https://presenter-121e6.firebaseio.com",
+    "project_id": "presenter-121e6",
+    "storage_bucket": "presenter-121e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8866881480:android:681a3edcc7978cbf",
+        "android_client_info": {
+          "package_name": "com.example.mridul.presenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8866881480-umca8fp50dtj0o5qrrgnjc0uvuih3k6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJthMsfq1nw_YJzH8DCYPVzmP82UqQA3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
